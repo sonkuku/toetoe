@@ -1,1 +1,1 @@
-# one simple game xo
+# gomoku game console
